@@ -1,3 +1,3 @@
 # Run Listeners
-org.springframework.boot.SpringApplicationRunListener=\
-pl.mkucharek.springframework.exclusiveprofiles.ProfileValidatingRunListener
+org.springframework.context.ApplicationListener=\
+pl.mkucharek.springexclusiveprofiles.ExclusiveProfileApplicationListener

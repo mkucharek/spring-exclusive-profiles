@@ -12,10 +12,6 @@ import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-/**
- * Copyright (c) 2007-2015 by AMG.net S.A.
- * All rights reserved.
- */
 public class ExclusiveProfileApplicationListener
         implements ApplicationListener<ApplicationEnvironmentPreparedEvent> {
 

@@ -1,10 +1,7 @@
 package pl.mkucharek.springexclusiveprofiles
 import org.springframework.boot.SpringApplication
 import spock.lang.Specification
-/**
- * Copyright (c) 2007-2015 by AMG.net S.A.
- * All rights reserved.
- */
+
 class SpringBootAppTest extends Specification {
 
     def "should load context successfully if one exclusive profile is active"() {
